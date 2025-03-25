@@ -1,8 +1,8 @@
 ## Iniciante (23/334)
 | # | Nome | Linguagem |
 | :---: | :---: | :---: | 
-| 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) | 
-| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift) | 
+| 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) / [C#](./csharp/b1000.cs)| 
+| 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift) / [C#](./csharp/b1001.cs)| 
 | 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift) | 
 | 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift) | 
 | 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift) | 
