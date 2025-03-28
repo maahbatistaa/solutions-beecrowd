@@ -3,14 +3,14 @@
 | :---: | :---: | :---: | 
 | 1000 | Hello World! | [Java](./java/b1000.java) / [JavaScript](./javascript/b1000.js) / [Swift](./swift/b1000.swift) / [C#](./csharp/b1000.cs)| 
 | 1001| Extremamente Básico | [Java](./java/b1001.java) / [JavaScript](./javascript/b1001.js) / [Swift](./swift/b1001.swift) / [C#](./csharp/b1001.cs)| 
-| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift) | 
-| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift) | 
-| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift) | 
-| 1005 | Média 1| [Java](./java/b1005.java) / [JavaScript](./javascript/b1005.js) / [Swift](./swift/b1005.swift) | 
-| 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) / [Swift](./swift/b1006.swift) | 
-| 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) / [Swift](./swift/b1007.swift) | 
-| 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) / [Swift](./swift/b1008.swift) | 
-| 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) / [Swift](./swift/b1009.swift) | 
+| 1002 | Área do Circulo | [Java](./java/b1002.java) / [JavaScript](./javascript/b1002.js) / [Swift](./swift/b1002.swift) / [C#](./csharp/b1002.cs) | 
+| 1003| Soma Simples | [Java](./java/b1003.java) / [JavaScript](./javascript/b1003.js) / [Swift](./swift/b1003.swift) / / [C#](./csharp/b1003.cs)|
+| 1004 | Produto Simples | [Java](./java/b1004.java) / [JavaScript](./javascript/b1004.js) / [Swift](./swift/b1004.swift) / [C#](./csharp/b1004.cs)| 
+| 1005 | Média 1| [Java](./java/b1005.java) / [JavaScript](./javascript/b1005.js) / [Swift](./swift/b1005.swift) / [C#](./csharp/b1005.cs)| 
+| 1006| Média 2 | [Java](./java/b1006.java) / [JavaScript](./javascript/b1006.js) / [Swift](./swift/b1006.swift) / [C#](./csharp/b1006.cs)| 
+| 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) / [Swift](./swift/b1007.swift) / [C#](./csharp/b1007.cs)| 
+| 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) / [Swift](./swift/b1008.swift) / [C#](./csharp/b1008.cs)| 
+| 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) / [Swift](./swift/b1009.swift) / [C#](./csharp/b1009.cs)| 
 | 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) / [Swift](./swift/b1010.swift) | 
 | 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) / [Swift](./swift/b1011.swift) |  
 | 1012 | Área | [Java](./java/b1012.java) / [JavaScript](./javascript/b1012.js) / [Swift](./swift/b1012.swift) | 
