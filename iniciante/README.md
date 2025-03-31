@@ -11,12 +11,12 @@
 | 1007 | Diferença | [Java](./java/b1007.java) / [JavaScript](./javascript/b1007.js) / [Swift](./swift/b1007.swift) / [C#](./csharp/b1007.cs)| 
 | 1008 | Salário | [Java](./java/b1008.java) / [JavaScript](./javascript/b1008.js) / [Swift](./swift/b1008.swift) / [C#](./csharp/b1008.cs)| 
 | 1009 | Salário com Bônus | [Java](./java/b1009.java) / [JavaScript](./javascript/b1009.js) / [Swift](./swift/b1009.swift) / [C#](./csharp/b1009.cs)| 
-| 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) / [Swift](./swift/b1010.swift) | 
-| 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) / [Swift](./swift/b1011.swift) |  
-| 1012 | Área | [Java](./java/b1012.java) / [JavaScript](./javascript/b1012.js) / [Swift](./swift/b1012.swift) | 
-| 1013 | O Maior | [Java](./java/b1013.java) / [JavaScript](./javascript/b1013.js) / [Swift](./swift/b1013.swift)| 
-| 1014 | Consumo | [Java](./java/b1014.java) / [JavaScript](./javascript/b1014.js) / [Swift](./swift/b1014.swift)| 
-| 1015 | Distância Entre Dois Pontos | [Java](./java/b1015.java) / [JavaScript](./javascript/b1015.js) / [Swift](./swift/b1015.swift)| 
+| 1010 | Cálculo Simples | [Java](./java/b1010.java) / [JavaScript](./javascript/b1010.js) / [Swift](./swift/b1010.swift) / [C#](./csharp/b1010.cs)| 
+| 1011 | Esfera | [Java](./java/b1011.java) / [JavaScript](./javascript/b1011.js) / [Swift](./swift/b1011.swift) / [C#](./csharp/b1011.cs)|  
+| 1012 | Área | [Java](./java/b1012.java) / [JavaScript](./javascript/b1012.js) / [Swift](./swift/b1012.swift) / [C#](./csharp/b1012.cs)| 
+| 1013 | O Maior | [Java](./java/b1013.java) / [JavaScript](./javascript/b1013.js) / [Swift](./swift/b1013.swift) / [C#](./csharp/b1013.cs)| 
+| 1014 | Consumo | [Java](./java/b1014.java) / [JavaScript](./javascript/b1014.js) / [Swift](./swift/b1014.swift) / [C#](./csharp/b1014.cs)| 
+| 1015 | Distância Entre Dois Pontos | [Java](./java/b1015.java) / [JavaScript](./javascript/b1015.js) / [Swift](./swift/b1015.swift) / [C#](./csharp/b1015.cs)| 
 | 1016 | Distância | [Java](./java/b1016.java) / [JavaScript](./javascript/b1016.js) / [Swift](./swift/b1016.swift) | 
 | 1017 | Gasto de Combustível | [Java](./java/b1017.java) / [JavaScript](./javascript/b1017.js) / [Swift](./swift/b1017.swift)| 
 | 1018 | Cédulas | [Java](./java/b1018.java) / [JavaScript](./javascript/b1018.js) / [Swift](./swift/b1018.swift)| 
